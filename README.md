@@ -31,7 +31,7 @@
 
 ### 📈 GitHub Insights
 
-<div >
+<div align="center">
 
   
 ![Momen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Momen-Tajik&theme=nord_dark)
