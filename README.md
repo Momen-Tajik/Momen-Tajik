@@ -1,4 +1,5 @@
 # Hi I'm Momen👋
+![](https://komarev.com/ghpvc/?username=Momen-Tajik&color=blue&style=plastic)
 
 ### 💻 Backend Developer | 🎓 Computer Engineering Student | 🌱 Lifelong Learner
 ![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
@@ -29,9 +30,13 @@
 
 ### 📈 GitHub Insights
 
-<div align="center">
+<div >
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Momen-Tajik&show_icons=true&theme=radical)
+  
+![Momen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Momen-Tajik&theme=nord_dark)
+![Momen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Momen-Tajik&theme=nord_dark)
+![Momen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Momen-Tajik&theme=nord_dark)
+
 
 </div>
 
@@ -51,4 +56,8 @@
 ![243273737-bfd77a60-d426-4470-b417-fdbab0166188](https://github.com/user-attachments/assets/3a5185ef-15c0-4981-a0c8-8b05b28799e6)
 
 
-__Made with ❤️__
+
+__Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Heart%20On%20Fire.webp" alt="Heart On Fire" width="20" height="20" />__
+
+
+
